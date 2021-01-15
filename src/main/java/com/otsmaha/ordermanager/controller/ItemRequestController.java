@@ -1,7 +1,6 @@
 package com.otsmaha.ordermanager.controller;
 
 import com.otsmaha.ordermanager.domain.Item;
-import com.otsmaha.ordermanager.payload.request.ItemRequest;
 import com.otsmaha.ordermanager.payload.response.MessageResponse;
 import com.otsmaha.ordermanager.service.ItemDeliveryService;
 import com.otsmaha.ordermanager.service.ItemService;
