@@ -1,0 +1,2 @@
+CREATE SCHEMA `order-manager` DEFAULT CHARACTER SET utf8 ;
+
